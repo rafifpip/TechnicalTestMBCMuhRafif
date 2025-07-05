@@ -16,8 +16,9 @@ Berikut adalah struktur direktori utama dari proyek ini:
 │   └── style.css         # Semua styling halaman
 ├── 📁 image/
 │   ├── logo.png          # Logo MBC Lab
-│   ├── icon.svg          # Feather Icons dalam format SVG
-│   └── foto.jpeg         # Foto developer
+│   ├── icon.svg          # Ikon dalam format SVG
+│   ├── foto.jpeg         # Foto developer
+│   └── LAB.png           # Gambar untuk hero section
 ├── 📁 js/
 │   └── script.js         # Interaksi menu mobile & EmailJS form
 ├── index.html            # Halaman utama website
