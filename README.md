@@ -122,7 +122,6 @@ Website ini dikembangkan oleh:
 
 - [LinkedIn](https://www.linkedin.com/in/muhamadrafifrahmatullah/)
 - [GitHub](https://github.com/rafifpip)
-- [Instagram](https://www.instagram.com/mrafifpip/)
 
 ---
 
